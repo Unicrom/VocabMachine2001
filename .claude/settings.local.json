@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('C:/Users/babyp/OneDrive/Documents/Random/Coding/VocabMachine2001/default_vocab_lists.json', 'utf8'\\)\\); console.log\\('Valid JSON'\\);\")",
+      "Bash(node fix_lists.js)"
+    ]
+  }
+}

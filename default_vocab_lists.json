@@ -4357,6 +4357,924 @@
           "antonyms": []
         }
       ]
+    },
+    {
+      "name": "List 13",
+      "tags": [
+        "AP Lang"
+      ],
+      "words": [
+        {
+          "word": "abstruse",
+          "definition": "Difficult to understand; obscure",
+          "example": "The professor's lecture on quantum mechanics was so abstruse that few students understood it.",
+          "synonyms": [
+            "obscure",
+            "complex",
+            "baffling"
+          ],
+          "antonyms": [
+            "clear",
+            "obvious",
+            "simple"
+          ]
+        },
+        {
+          "word": "affront",
+          "definition": "An open insult or offense; to insult deliberately",
+          "example": "Ignoring the invitation was seen as an affront to the host.",
+          "synonyms": [
+            "insult",
+            "offense",
+            "indignity"
+          ],
+          "antonyms": [
+            "compliment",
+            "praise",
+            "honor"
+          ]
+        },
+        {
+          "word": "canard",
+          "definition": "A false rumor or report",
+          "example": "The newspaper quickly denied the canard spreading online.",
+          "synonyms": [
+            "hoax",
+            "fabrication",
+            "lie"
+          ],
+          "antonyms": [
+            "truth",
+            "fact",
+            "reality"
+          ]
+        },
+        {
+          "word": "captious",
+          "definition": "Faultfinding; intended to trap or confuse",
+          "example": "The reviewer asked captious questions designed to embarrass the author.",
+          "synonyms": [
+            "critical",
+            "nitpicking",
+            "hypercritical"
+          ],
+          "antonyms": [
+            "tolerant",
+            "understanding",
+            "accepting"
+          ]
+        },
+        {
+          "word": "cognizant",
+          "definition": "Aware; informed",
+          "example": "She was fully cognizant of the risks before investing.",
+          "synonyms": [
+            "aware",
+            "conscious",
+            "informed"
+          ],
+          "antonyms": [
+            "ignorant",
+            "unaware",
+            "oblivious"
+          ]
+        },
+        {
+          "word": "contrite",
+          "definition": "Deeply sorry or remorseful",
+          "example": "The student sounded contrite after breaking the classroom rules.",
+          "synonyms": [
+            "remorseful",
+            "repentant",
+            "apologetic"
+          ],
+          "antonyms": [
+            "unapologetic",
+            "defiant",
+            "indifferent"
+          ]
+        },
+        {
+          "word": "cynosure",
+          "definition": "The center of attention; something that strongly attracts notice",
+          "example": "The famous actor became the cynosure of the event.",
+          "synonyms": [
+            "attraction",
+            "focal point",
+            "centerpiece"
+          ],
+          "antonyms": [
+            "obscurity",
+            "background",
+            "unnoticed thing"
+          ]
+        },
+        {
+          "word": "decorous",
+          "definition": "Proper and respectful in behavior",
+          "example": "Everyone remained decorous during the formal ceremony.",
+          "synonyms": [
+            "polite",
+            "dignified",
+            "respectable"
+          ],
+          "antonyms": [
+            "rude",
+            "improper",
+            "indecent"
+          ]
+        },
+        {
+          "word": "deign",
+          "definition": "To do something in a condescending way",
+          "example": "The celebrity did not deign to answer reporters' questions.",
+          "synonyms": [
+            "stoop",
+            "condescend"
+          ],
+          "antonyms": [
+            "refuse",
+            "reject"
+          ]
+        },
+        {
+          "word": "desiccated",
+          "definition": "Dried out; lifeless",
+          "example": "The desert wind left the plants desiccated.",
+          "synonyms": [
+            "arid",
+            "dry",
+            "shriveled"
+          ],
+          "antonyms": [
+            "moist",
+            "fresh",
+            "hydrated"
+          ]
+        },
+        {
+          "word": "efficacy",
+          "definition": "Effectiveness; ability to produce results",
+          "example": "Scientists tested the efficacy of the new vaccine.",
+          "synonyms": [
+            "effectiveness",
+            "efficiency",
+            "power"
+          ],
+          "antonyms": [
+            "uselessness",
+            "ineffectiveness",
+            "failure"
+          ]
+        },
+        {
+          "word": "engender",
+          "definition": "To produce or cause",
+          "example": "Acts of kindness engender trust among coworkers.",
+          "synonyms": [
+            "create",
+            "generate",
+            "provoke"
+          ],
+          "antonyms": [
+            "destroy",
+            "suppress",
+            "prevent"
+          ]
+        },
+        {
+          "word": "ethereal",
+          "definition": "Extremely delicate or heavenly",
+          "example": "The dancer moved with an ethereal grace.",
+          "synonyms": [
+            "delicate",
+            "airy",
+            "celestial"
+          ],
+          "antonyms": [
+            "earthly",
+            "coarse",
+            "heavy"
+          ]
+        },
+        {
+          "word": "facade",
+          "definition": "The front of a building; a false appearance",
+          "example": "His cheerful attitude was only a facade hiding his stress.",
+          "synonyms": [
+            "exterior",
+            "front",
+            "disguise"
+          ],
+          "antonyms": [
+            "reality",
+            "sincerity",
+            "openness"
+          ]
+        },
+        {
+          "word": "ghoulish",
+          "definition": "Morbidly interested in death or disaster",
+          "example": "Reporters made ghoulish comments about the accident.",
+          "synonyms": [
+            "macabre",
+            "gruesome",
+            "morbid"
+          ],
+          "antonyms": [
+            "cheerful",
+            "pleasant",
+            "wholesome"
+          ]
+        },
+        {
+          "word": "incongruous",
+          "definition": "Not fitting in; out of place",
+          "example": "The comedian's joke seemed incongruous during the serious meeting.",
+          "synonyms": [
+            "incompatible",
+            "inconsistent",
+            "mismatched"
+          ],
+          "antonyms": [
+            "suitable",
+            "harmonious",
+            "fitting"
+          ]
+        },
+        {
+          "word": "machination",
+          "definition": "A crafty scheme or plot",
+          "example": "The villain's machinations were finally uncovered.",
+          "synonyms": [
+            "plot",
+            "conspiracy",
+            "scheme"
+          ],
+          "antonyms": [
+            "honesty",
+            "openness",
+            "sincerity"
+          ]
+        },
+        {
+          "word": "mesmerize",
+          "definition": "To hypnotize or fascinate completely",
+          "example": "The magician's performance mesmerized the audience.",
+          "synonyms": [
+            "captivate",
+            "enchant",
+            "fascinate"
+          ],
+          "antonyms": [
+            "bore",
+            "repel",
+            "distract"
+          ]
+        },
+        {
+          "word": "opprobrium",
+          "definition": "Harsh criticism or disgrace",
+          "example": "The corrupt official became an object of public opprobrium.",
+          "synonyms": [
+            "shame",
+            "disgrace",
+            "condemnation"
+          ],
+          "antonyms": [
+            "praise",
+            "honor",
+            "approval"
+          ]
+        },
+        {
+          "word": "putative",
+          "definition": "Commonly accepted as true, although not proven",
+          "example": "The putative winner waited anxiously for the final count.",
+          "synonyms": [
+            "supposed",
+            "presumed",
+            "alleged"
+          ],
+          "antonyms": [
+            "confirmed",
+            "definite",
+            "proven"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "List 14",
+      "tags": [
+        "AP Lang"
+      ],
+      "words": [
+        {
+          "word": "beatific",
+          "definition": "Blissfully happy; saintly",
+          "example": "She wore a beatific smile after hearing the good news.",
+          "synonyms": [
+            "joyful",
+            "serene",
+            "heavenly"
+          ],
+          "antonyms": [
+            "miserable",
+            "gloomy",
+            "troubled"
+          ]
+        },
+        {
+          "word": "behemoth",
+          "definition": "Something enormous and powerful",
+          "example": "The company grew into a business behemoth.",
+          "synonyms": [
+            "giant",
+            "monster",
+            "colossus"
+          ],
+          "antonyms": [
+            "dwarf",
+            "miniature",
+            "lightweight"
+          ]
+        },
+        {
+          "word": "blandishment",
+          "definition": "Flattering speech or actions used to persuade",
+          "example": "The salesperson used blandishments to convince customers to buy.",
+          "synonyms": [
+            "flattery",
+            "praise",
+            "coaxing"
+          ],
+          "antonyms": [
+            "criticism",
+            "insult",
+            "discouragement"
+          ]
+        },
+        {
+          "word": "cacophonous",
+          "definition": "Harsh-sounding; noisy",
+          "example": "The cacophonous alarm woke everyone in the building.",
+          "synonyms": [
+            "discordant",
+            "jarring",
+            "grating"
+          ],
+          "antonyms": [
+            "harmonious",
+            "melodic",
+            "pleasant"
+          ]
+        },
+        {
+          "word": "chicanery",
+          "definition": "Trickery or deception",
+          "example": "The investigation revealed financial chicanery within the company.",
+          "synonyms": [
+            "deceit",
+            "fraud",
+            "dishonesty"
+          ],
+          "antonyms": [
+            "honesty",
+            "fairness",
+            "sincerity"
+          ]
+        },
+        {
+          "word": "consign",
+          "definition": "To hand over or assign",
+          "example": "The museum agreed to consign the painting to another gallery.",
+          "synonyms": [
+            "assign",
+            "transfer",
+            "entrust"
+          ],
+          "antonyms": [
+            "keep",
+            "retain",
+            "withhold"
+          ]
+        },
+        {
+          "word": "coup",
+          "definition": "A brilliant success or sudden takeover",
+          "example": "Signing the famous athlete was a major coup for the team.",
+          "synonyms": [
+            "triumph",
+            "achievement",
+            "takeover"
+          ],
+          "antonyms": [
+            "failure",
+            "defeat",
+            "collapse"
+          ]
+        },
+        {
+          "word": "euphemism",
+          "definition": "A mild expression used instead of a harsh one",
+          "example": "\"Passed away\" is a common euphemism for \"died.\"",
+          "synonyms": [
+            "understatement",
+            "indirect expression"
+          ],
+          "antonyms": [
+            "bluntness",
+            "directness"
+          ]
+        },
+        {
+          "word": "febrile",
+          "definition": "Feverish; highly agitated",
+          "example": "Investors reacted with febrile excitement to the market changes.",
+          "synonyms": [
+            "restless",
+            "overheated",
+            "frantic"
+          ],
+          "antonyms": [
+            "calm",
+            "cool",
+            "collected"
+          ]
+        },
+        {
+          "word": "gainsay",
+          "definition": "To deny or contradict",
+          "example": "No one could gainsay the evidence presented in court.",
+          "synonyms": [
+            "dispute",
+            "oppose",
+            "deny"
+          ],
+          "antonyms": [
+            "agree",
+            "confirm",
+            "support"
+          ]
+        },
+        {
+          "word": "imminent",
+          "definition": "About to happen",
+          "example": "Dark clouds signaled that a storm was imminent.",
+          "synonyms": [
+            "impending",
+            "near",
+            "forthcoming"
+          ],
+          "antonyms": [
+            "distant",
+            "remote",
+            "unlikely"
+          ]
+        },
+        {
+          "word": "innate",
+          "definition": "Inborn; natural",
+          "example": "She has an innate talent for music.",
+          "synonyms": [
+            "natural",
+            "inherent",
+            "instinctive"
+          ],
+          "antonyms": [
+            "acquired",
+            "learned",
+            "external"
+          ]
+        },
+        {
+          "word": "loath",
+          "definition": "Unwilling; reluctant",
+          "example": "He was loath to admit his mistake.",
+          "synonyms": [
+            "reluctant",
+            "hesitant",
+            "unwilling"
+          ],
+          "antonyms": [
+            "eager",
+            "willing",
+            "enthusiastic"
+          ]
+        },
+        {
+          "word": "manifest",
+          "definition": "Clear or obvious; to show plainly",
+          "example": "Her excitement was manifest in her expression.",
+          "synonyms": [
+            "evident",
+            "apparent",
+            "display"
+          ],
+          "antonyms": [
+            "hidden",
+            "obscure",
+            "conceal"
+          ]
+        },
+        {
+          "word": "minutiae",
+          "definition": "Small or trivial details",
+          "example": "The lawyer focused on the minutiae of the contract.",
+          "synonyms": [
+            "details",
+            "trivia",
+            "particulars"
+          ],
+          "antonyms": [
+            "essentials",
+            "main points",
+            "overview"
+          ]
+        },
+        {
+          "word": "moratorium",
+          "definition": "A temporary suspension or delay",
+          "example": "The city placed a moratorium on new construction projects.",
+          "synonyms": [
+            "delay",
+            "suspension",
+            "postponement"
+          ],
+          "antonyms": [
+            "continuation",
+            "resumption",
+            "restart"
+          ]
+        },
+        {
+          "word": "nostrum",
+          "definition": "A questionable remedy or solution",
+          "example": "The salesman promoted a fake nostrum that cured nothing.",
+          "synonyms": [
+            "cure-all",
+            "panacea",
+            "quack remedy"
+          ],
+          "antonyms": [
+            "proven treatment",
+            "genuine medicine"
+          ]
+        },
+        {
+          "word": "pariah",
+          "definition": "An outcast",
+          "example": "After the scandal, the politician became a social pariah.",
+          "synonyms": [
+            "exile",
+            "reject",
+            "outsider"
+          ],
+          "antonyms": [
+            "insider",
+            "favorite",
+            "accepted person"
+          ]
+        },
+        {
+          "word": "visionary",
+          "definition": "Having foresight; a person with imaginative ideas",
+          "example": "The visionary entrepreneur developed groundbreaking technology.",
+          "synonyms": [
+            "innovative",
+            "creative",
+            "dreamer"
+          ],
+          "antonyms": [
+            "narrow-minded",
+            "realistic",
+            "conventional"
+          ]
+        },
+        {
+          "word": "wizened",
+          "definition": "Shriveled or wrinkled with age",
+          "example": "The wizened farmer had worked in the sun for decades.",
+          "synonyms": [
+            "withered",
+            "shriveled",
+            "aged"
+          ],
+          "antonyms": [
+            "youthful",
+            "smooth",
+            "fresh"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "List 15",
+      "tags": [
+        "AP Lang"
+      ],
+      "words": [
+        {
+          "word": "amenity",
+          "definition": "A pleasant feature or convenience",
+          "example": "The hotel offered many amenities, including a pool and gym.",
+          "synonyms": [
+            "comfort",
+            "convenience",
+            "benefit"
+          ],
+          "antonyms": [
+            "inconvenience",
+            "hardship",
+            "disadvantage"
+          ]
+        },
+        {
+          "word": "aperture",
+          "definition": "An opening or gap",
+          "example": "Light passed through the small aperture in the wall.",
+          "synonyms": [
+            "opening",
+            "hole",
+            "gap"
+          ],
+          "antonyms": [
+            "closure",
+            "blockage",
+            "seal"
+          ]
+        },
+        {
+          "word": "dissidence",
+          "definition": "Disagreement with official beliefs or policies",
+          "example": "The government punished political dissidence harshly.",
+          "synonyms": [
+            "protest",
+            "disagreement",
+            "opposition"
+          ],
+          "antonyms": [
+            "agreement",
+            "conformity",
+            "loyalty"
+          ]
+        },
+        {
+          "word": "epicurean",
+          "definition": "Devoted to pleasure, especially fine food",
+          "example": "The restaurant appealed to epicurean tastes.",
+          "synonyms": [
+            "luxurious",
+            "pleasure-loving",
+            "gourmet"
+          ],
+          "antonyms": [
+            "ascetic",
+            "self-denying",
+            "austere"
+          ]
+        },
+        {
+          "word": "improvident",
+          "definition": "Not planning carefully for the future",
+          "example": "His improvident spending left him deeply in debt.",
+          "synonyms": [
+            "reckless",
+            "wasteful",
+            "careless"
+          ],
+          "antonyms": [
+            "cautious",
+            "prudent",
+            "economical"
+          ]
+        },
+        {
+          "word": "iniquity",
+          "definition": "Wickedness or injustice",
+          "example": "The novel exposed the iniquities of the legal system.",
+          "synonyms": [
+            "evil",
+            "sin",
+            "corruption"
+          ],
+          "antonyms": [
+            "goodness",
+            "virtue",
+            "morality"
+          ]
+        },
+        {
+          "word": "inviolable",
+          "definition": "Sacred; impossible to violate",
+          "example": "Citizens believed their rights were inviolable.",
+          "synonyms": [
+            "secure",
+            "untouchable",
+            "sacred"
+          ],
+          "antonyms": [
+            "vulnerable",
+            "violable",
+            "breakable"
+          ]
+        },
+        {
+          "word": "mutable",
+          "definition": "Changeable",
+          "example": "Public opinion is often mutable.",
+          "synonyms": [
+            "variable",
+            "unstable",
+            "flexible"
+          ],
+          "antonyms": [
+            "constant",
+            "fixed",
+            "permanent"
+          ]
+        },
+        {
+          "word": "nascent",
+          "definition": "Beginning to exist or develop",
+          "example": "The startup was still in its nascent stage.",
+          "synonyms": [
+            "emerging",
+            "developing",
+            "budding"
+          ],
+          "antonyms": [
+            "mature",
+            "established",
+            "developed"
+          ]
+        },
+        {
+          "word": "obeisance",
+          "definition": "A gesture showing respect or submission",
+          "example": "The knight made an obeisance before the king.",
+          "synonyms": [
+            "bow",
+            "respect",
+            "homage"
+          ],
+          "antonyms": [
+            "disrespect",
+            "defiance",
+            "insolence"
+          ]
+        },
+        {
+          "word": "panegyric",
+          "definition": "Elaborate praise",
+          "example": "The retiring coach received a glowing panegyric.",
+          "synonyms": [
+            "tribute",
+            "acclaim",
+            "eulogy"
+          ],
+          "antonyms": [
+            "criticism",
+            "condemnation",
+            "attack"
+          ]
+        },
+        {
+          "word": "pillory",
+          "definition": "To ridicule publicly; a device for punishment",
+          "example": "The media continued to pillory the celebrity for his remarks.",
+          "synonyms": [
+            "mock",
+            "condemn",
+            "criticize"
+          ],
+          "antonyms": [
+            "praise",
+            "defend",
+            "applaud"
+          ]
+        },
+        {
+          "word": "pittance",
+          "definition": "A very small amount, especially of money",
+          "example": "Workers complained that they were paid a pittance.",
+          "synonyms": [
+            "trifle",
+            "peanuts",
+            "measly amount"
+          ],
+          "antonyms": [
+            "fortune",
+            "abundance",
+            "wealth"
+          ]
+        },
+        {
+          "word": "presage",
+          "definition": "To predict or foreshadow",
+          "example": "The dark sky seemed to presage disaster.",
+          "synonyms": [
+            "foretell",
+            "predict",
+            "omen"
+          ],
+          "antonyms": [
+            "ignore",
+            "mislead",
+            "conceal"
+          ]
+        },
+        {
+          "word": "progeny",
+          "definition": "Descendants or children",
+          "example": "The scientist hoped her intellectual progeny would continue her work.",
+          "synonyms": [
+            "offspring",
+            "heirs",
+            "descendants"
+          ],
+          "antonyms": [
+            "ancestors",
+            "forebears"
+          ]
+        },
+        {
+          "word": "promulgate",
+          "definition": "To announce officially",
+          "example": "The government promulgated new environmental regulations.",
+          "synonyms": [
+            "proclaim",
+            "declare",
+            "publish"
+          ],
+          "antonyms": [
+            "conceal",
+            "suppress",
+            "hide"
+          ]
+        },
+        {
+          "word": "rectitude",
+          "definition": "Moral uprightness",
+          "example": "The judge was admired for his rectitude.",
+          "synonyms": [
+            "integrity",
+            "honesty",
+            "virtue"
+          ],
+          "antonyms": [
+            "corruption",
+            "dishonesty",
+            "immorality"
+          ]
+        },
+        {
+          "word": "restive",
+          "definition": "Difficult to control; impatient",
+          "example": "The crowd grew restive during the long delay.",
+          "synonyms": [
+            "restless",
+            "uneasy",
+            "impatient"
+          ],
+          "antonyms": [
+            "calm",
+            "patient",
+            "obedient"
+          ]
+        },
+        {
+          "word": "seraphic",
+          "definition": "Angelic; blissful",
+          "example": "The child had a seraphic expression while sleeping.",
+          "synonyms": [
+            "heavenly",
+            "radiant",
+            "angelic"
+          ],
+          "antonyms": [
+            "sinister",
+            "gloomy",
+            "earthly"
+          ]
+        },
+        {
+          "word": "subsist",
+          "definition": "To survive or continue to exist",
+          "example": "Early settlers had to subsist on limited supplies.",
+          "synonyms": [
+            "survive",
+            "endure",
+            "persist"
+          ],
+          "antonyms": [
+            "perish",
+            "disappear",
+            "cease"
+          ]
+        }
+      ]
     }
   ]
 }
